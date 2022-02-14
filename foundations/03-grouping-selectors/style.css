@@ -1,0 +1,14 @@
+.angel {
+    background-color: black;
+    color: white;
+}
+.devil {
+    background-color: yellow;
+}
+
+.angel, 
+.devil {
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+}
+
